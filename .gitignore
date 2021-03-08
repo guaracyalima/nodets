@@ -1,0 +1,6 @@
+database/
+dist/
+log/
+*.log
+coverage/
+node_modules/
