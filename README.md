@@ -3,7 +3,9 @@
 ---
 
 title: nodets
+
 author: guaracyalima
+
 date: 03/21
 
 ---
@@ -18,6 +20,18 @@ date: 03/21
 
 ```bash
     docker-compose up -d
+```
+
+ou
+
+```bash
+    yarn dev
+```
+
+ou ainda
+
+```bash
+    npm run dev
 ```
 
 ## Como buildar?
